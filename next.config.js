@@ -3,12 +3,12 @@ module.exports = {
     return [
       {
         source: "/",
-        destination: "https://dailybuzzs.com/",
+        destination: "https://footaballholy.xyz/",
         permanent: true,
       },
       // {
       //   source: "/:slug",
-      //   destination: "https://dailybuzzs.com/:slug",
+      //   destination: "https://footaballholy.xyz/:slug",
       //   permanent: true,
       // },
     ];
